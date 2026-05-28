@@ -1,0 +1,32 @@
+aid: keycdn-ip-location-finder
+name: keycdn IP Location Finder
+description: "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded"
+url: https://tools.keycdn.com/geo
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: keycdn IP Location Finder
+    description: "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded"
+    humanURL: https://tools.keycdn.com/geo
+    baseURL: https://tools.keycdn.com/geo
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://tools.keycdn.com/geo
+common:
+  - type: Website
+    url: https://tools.keycdn.com/geo
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
