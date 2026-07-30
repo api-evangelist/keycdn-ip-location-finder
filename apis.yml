@@ -1,4 +1,16 @@
 aid: keycdn-ip-location-finder
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/keycdn-ip-location-finder.png
 name: keycdn IP Location Finder
 description: "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded"
 url: https://tools.keycdn.com/geo
