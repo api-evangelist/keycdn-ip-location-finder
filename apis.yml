@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/keycdn-ip-
 name: keycdn IP Location Finder
 description: "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded"
 url: https://tools.keycdn.com/geo
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
